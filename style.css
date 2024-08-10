@@ -7,6 +7,7 @@ body {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    margin: 0;
 }
 
 h1 {
@@ -130,4 +131,18 @@ section {
     border: 30px solid white;
     box-shadow: 10px 10px 40px gray;
 
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    line-height: 0.7;
+}
+
+footer p {
+    text-align: center;
+    color: gray;
 }
