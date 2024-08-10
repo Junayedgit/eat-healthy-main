@@ -51,20 +51,19 @@ section {
 }
 
 #secondimg {
-    width: 80%;
-    height: auto;
+    width: 70%;
+    margin-top: 55px;
+    padding-left: 10%;
+
 }
 
 .background {
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    margin-bottom: 40px;
-    padding: 20px;
-
+    background-size: contain;
 }
 
 .textalign {
-    margin-top: 120px;
+    padding-top: 10%;
 
 }
