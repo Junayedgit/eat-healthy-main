@@ -10,8 +10,12 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 70px;
     line-height: 0.7;
+}
+
+p {
+    font-size: 30px;
 }
 
 section {
@@ -20,11 +24,11 @@ section {
 
 .half-width {
     width: 50%;
-    padding-left: 5%;
+    margin-left: 60px;
 }
 
 .half-width img {
-    width: 80%;
+    width: 90%;
 
 }
 
@@ -37,4 +41,8 @@ section {
     border-radius: 15px;
     font-weight: 700;
     font-size: 20px;
+}
+
+.textplace {
+    margin-top: 60px;
 }
