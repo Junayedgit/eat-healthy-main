@@ -60,7 +60,7 @@ section {
 .link-button {
     text-decoration: none;
     color: white;
-    background-color: orangered;
+    background-image: linear-gradient(blueviolet, blue);
     padding: 10px 40px;
     border-radius: 15px;
     font-weight: 700;
