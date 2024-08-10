@@ -17,6 +17,11 @@ h1 {
 h2 {
     font-size: 50px;
     text-transform: capitalize;
+    line-height: 0.7;
+}
+
+h3 {
+    font-size: 30px;
 }
 
 .recipie {
@@ -85,10 +90,14 @@ section {
 }
 
 .recipie-title {
-    border: 10px solid gray;
-    width: 50%;
+    width: 40%;
     padding: 20px;
     height: fit-content;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+    border: 30px solid white;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
 }
 
@@ -99,5 +108,26 @@ section {
 
 .flexible-container {
     display: flex;
+
+}
+
+#second {
+    margin-left: 100px;
+    margin-right: 40px;
+}
+
+#first {
+    margin-left: 40px;
+    margin-right: 100px;
+
+}
+
+.social-media {
+    text-transform: capitalize;
+    padding-left: 15%;
+    margin: 200px;
+    border-radius: 20px;
+    border: 30px solid white;
+    box-shadow: 10px 10px 40px gray;
 
 }
